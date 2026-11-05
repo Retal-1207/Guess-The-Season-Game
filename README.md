@@ -25,7 +25,7 @@ demo/gameplay.mp4          Gameplay demonstration
 3. Set **Project Properties → Debugging → Working Directory** to the **repository root directory** (the folder containing `assets/`). The code uses relative paths such as `assets\textures\winter.bmp`.
 4. Build with **Ctrl+Shift+B** and run with **Ctrl+F5**. Start from the repository root working directory to ensure the textures and audio are found.
 
-> **Note:** This is source code and project assets, not a preconfigured Visual Studio `.sln` project. The exact GLEW/FreeGLUT setup depends on your local Visual Studio installation. The game has not been compiled or run as part of this packaging step.
+> **Note:** This is source code and project assets, not a preconfigured Visual Studio `.sln` project. The exact GLEW/FreeGLUT setup depends on your local Visual Studio installation. The game was successfully developed and tested by the project team. A gameplay demonstration video is available in `demo/gameplay.mp4`. This repository contains the source code and required assets, but does not include a preconfigured Visual Studio `.sln` project.
 
 ## Controls
 - **PLAY NOW**: start the game.
