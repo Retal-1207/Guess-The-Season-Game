@@ -1,0 +1,16 @@
+# Visual Studio / C++ build artifacts
+.vs/
+Debug/
+Release/
+x64/
+x86/
+*.sln.docstates
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.user
+*.suo
+*.ipch
+*.tlog
+*.lastbuildstate
